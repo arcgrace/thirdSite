@@ -5,3 +5,5 @@ draft: true
 ---
 
 i edit this one on vs code screen 
+
+another edit under dev mode ,after write something under release mode!
