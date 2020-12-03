@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://arcgrace.github.io/thirdSite/"
 languageCode = "en-us"
 title = "THIS IS THIRD SITE"
 theme="ananke"
