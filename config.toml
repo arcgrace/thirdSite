@@ -2,3 +2,6 @@ baseURL = "https://arcgrace.github.io/thirdSite/public"
 languageCode = "en-us"
 title = "THIS IS THIRD SITE"
 theme="ananke"
+
+[frontmatter]
+date = ["myDate", ":default"]
