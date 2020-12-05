@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>THIS IS THIRD SITE</title>
-    <link>http://example.org/</link>
+    <link>https://arcgrace.github.io/thirdSite/public/</link>
     <description>Recent content on THIS IS THIRD SITE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Dec 2020 09:06:41 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Dec 2020 09:06:41 +0800</lastBuildDate><atom:link href="https://arcgrace.github.io/thirdSite/public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://arcgrace.github.io/thirdSite/public/posts/my-first-post/</link>
       <pubDate>Thu, 03 Dec 2020 09:06:41 +0800</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://arcgrace.github.io/thirdSite/public/posts/my-first-post/</guid>
       <description>Today is sunny day!!</description>
     </item>
     

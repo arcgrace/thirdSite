@@ -1,6 +1,6 @@
 baseURL = "https://arcgrace.github.io/thirdSite/public"
 languageCode = "en-us"
-title = "THIS IS THIRD SITE"
+title = "翰林國小英語"
 theme="ananke"
 
 [frontmatter]
