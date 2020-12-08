@@ -1,7 +1,15 @@
-baseURL = "https://arcgrace.github.io/thirdSite/public"
+baseURL = "http://example.org/thirdSite/"
 languageCode = "en-us"
 title = "翰林國小英語"
 theme="ananke"
 
 [frontmatter]
 date = ["myDate", ":default"]
+
+[taxonomies]
+ tag ="tags"
+ category = "categories"
+ semester = "semesters"
+
+ 
+ 
