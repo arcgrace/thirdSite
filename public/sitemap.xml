@@ -2,27 +2,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>https://arcgrace.github.io/thirdSite/public/posts/my-first-post/</loc>
-    <lastmod>2020-12-03T09:06:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://arcgrace.github.io/thirdSite/public/posts/</loc>
-    <lastmod>2020-12-03T09:06:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://arcgrace.github.io/thirdSite/public/</loc>
-    <lastmod>2020-12-03T09:06:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://arcgrace.github.io/thirdSite/public/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://arcgrace.github.io/thirdSite/public/tags/</loc>
-  </url>
-  
 </urlset>
