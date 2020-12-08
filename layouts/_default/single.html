@@ -4,6 +4,7 @@
 {{ end }}
 
 {{ define "main" }}
+
   {{ $section := .Site.GetPage "section" .Section }}
   <article class="flex-l flex-wrap justify-between mw8 center ph3">
     <header class="mt4 w-100">
@@ -16,20 +17,7 @@
       </aside>
       {{ partial "social-share.html" . }}
 
-   <div>
-    {{$title := .Title}}
-    {{with (index .Site.Data .File.TranslationBaseName)}}
-         {{range .cds}}
-              <h3>{{.name}}</h3>
-              {{range .tracks}}
-                   {{$cdUrl := (print $title .name .url)}}
-                   <h3>title: {{.name}}</h3>
-                   <h3>original: {{.url}}</h3>
-                   <h3>base64 encode: {{base64Encode $cdUrl}}</h3>
-              {{end}}
-         {{end}}
-    {{end}}    
-   </div>
+ 
 
       <h1 class="f1 athelas mt3 mb1">
         {{- .Title -}}
@@ -65,6 +53,22 @@
     </header>
     <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
       {{- .Content -}}
+
+      <div>
+        {{$title := .Title}}
+        {{with (index .Site.Data .File.TranslationBaseName)}}
+             {{range .cds}}
+                  <h3>{{.name}}</h3>
+                  {{range .tracks}}
+                       {{$cdUrl := (print $title .name .url)}}
+                       <h3>title: {{.name}}</h3>
+                       <h3>original: {{.url}}</h3>
+                       <h3>base64 encode: {{base64Encode $cdUrl}}</h3>
+                  {{end}}
+             {{end}}
+        {{end}}    
+       </div>
+       
       {{- partial "tags.html" . -}}
       <div class="mt6 instapaper_ignoref">
       {{ if .Site.DisqusShortname }}

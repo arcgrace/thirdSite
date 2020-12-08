@@ -1,4 +1,4 @@
-baseURL = "http://example.org/thirdSite/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "翰林國小英語"
 theme="ananke"
