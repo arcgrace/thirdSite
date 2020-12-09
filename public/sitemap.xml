@@ -2,4 +2,176 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
+  <url>
+    <loc>http://example.org/posts/12th/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/eighth-post/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2020-12-05T15:34:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/e0dd50f49629a4afc0bab248a5c661a0a4996b47/</loc>
+    <lastmod>2020-12-08T09:32:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/d7c7d5b0189b68958855270d6772320252f3b2a5/</loc>
+    <lastmod>2020-12-08T09:32:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/16th/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/tag2/</loc>
+    <lastmod>2020-12-05T15:35:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2020-12-06T10:59:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-12-06T14:32:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/cat2/</loc>
+    <lastmod>2020-12-06T10:59:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2020-12-06T10:59:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/dir3/</loc>
+    <lastmod>2020-12-06T10:59:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/semesters/h1/</loc>
+    <lastmod>2020-12-06T10:59:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/dir3/mew03/</loc>
+    <lastmod>2020-12-06T10:59:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/semesters/s1/</loc>
+    <lastmod>2020-12-06T10:59:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/semesters/</loc>
+    <lastmod>2020-12-06T10:59:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/tag3/</loc>
+    <lastmod>2020-12-06T10:59:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/cat1/</loc>
+    <lastmod>2020-12-05T15:35:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/dir3/newo2/</loc>
+    <lastmod>2020-12-05T15:35:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/tag1/</loc>
+    <lastmod>2020-12-05T15:35:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/dir3/newo1/</loc>
+    <lastmod>2020-12-05T15:34:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/dir1/20th/</loc>
+    <lastmod>2020-12-05T15:34:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/dir1/dir2/</loc>
+    <lastmod>2020-12-05T12:08:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/dir1/dir2/18th/</loc>
+    <lastmod>2020-12-05T11:59:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/17th/</loc>
+    <lastmod>2020-12-05T11:48:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/dir1/15th/</loc>
+    <lastmod>2020-12-05T11:40:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/tenth/</loc>
+    <lastmod>2020-12-03T16:58:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/ninth-post/</loc>
+    <lastmod>2020-12-03T16:55:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/seventh-post/</loc>
+    <lastmod>2020-12-03T16:48:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/sixth-post/</loc>
+    <lastmod>2020-12-03T16:48:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/my-fifth-post/</loc>
+    <lastmod>2020-12-03T16:44:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/my-forth-post/</loc>
+    <lastmod>2020-12-03T16:44:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/my-third-post/</loc>
+    <lastmod>2020-12-03T16:42:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/my-second-post/</loc>
+    <lastmod>2020-12-03T16:42:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/my-first-post/</loc>
+    <lastmod>2020-12-03T09:06:41+08:00</lastmod>
+  </url>
+  
 </urlset>

@@ -1,18 +1,207 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>THIS IS THIRD SITE</title>
-    <link>https://arcgrace.github.io/thirdSite/public/</link>
-    <description>Recent content on THIS IS THIRD SITE</description>
+    <title>翰林國小英語</title>
+    <link>http://example.org/</link>
+    <description>Recent content on 翰林國小英語</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Dec 2020 09:06:41 +0800</lastBuildDate><atom:link href="https://arcgrace.github.io/thirdSite/public/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Dec 2020 14:32:49 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>12th</title>
+      <link>http://example.org/posts/12th/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/12th/</guid>
+      <description>myDate 可以修改 更改的時間
+ config.toml 檔案新增加 :
+ [frontmatter] date = [&amp;ldquo;myDate&amp;rdquo;, &amp;ldquo;:default&amp;rdquo;]
+Images Images2 圖片的路徑要注意 : &amp;ldquo;(/thirdSite/images/logo.png )&amp;rdquo;
+Images3 Images online </description>
+    </item>
+    
+    <item>
+      <title>Eighth Post</title>
+      <link>http://example.org/posts/eighth-post/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/eighth-post/</guid>
+      <description>now i have some idea about git-flow !!!!
+now i switch to dev again, after edit something under release branch!</description>
+    </item>
+    
+    <item>
+      <title>d1CD2</title>
+      <link>http://example.org/e0dd50f49629a4afc0bab248a5c661a0a4996b47/</link>
+      <pubDate>Tue, 08 Dec 2020 09:32:34 +0800</pubDate>
+      
+      <guid>http://example.org/e0dd50f49629a4afc0bab248a5c661a0a4996b47/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D1CD1</title>
+      <link>http://example.org/d7c7d5b0189b68958855270d6772320252f3b2a5/</link>
+      <pubDate>Tue, 08 Dec 2020 09:32:27 +0800</pubDate>
+      
+      <guid>http://example.org/d7c7d5b0189b68958855270d6772320252f3b2a5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>16th</title>
+      <link>http://example.org/16th/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/16th/</guid>
+      <description>where am i
+i am directly under content file</description>
+    </item>
+    
+    <item>
+      <title>Mew03</title>
+      <link>http://example.org/dir3/mew03/</link>
+      <pubDate>Sun, 06 Dec 2020 10:59:27 +0800</pubDate>
+      
+      <guid>http://example.org/dir3/mew03/</guid>
+      <description>front matter here:
+ semesters: [&amp;ldquo;h1&amp;rdquo;,&amp;ldquo;S1&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>Newo2</title>
+      <link>http://example.org/dir3/newo2/</link>
+      <pubDate>Sat, 05 Dec 2020 15:35:55 +0800</pubDate>
+      
+      <guid>http://example.org/dir3/newo2/</guid>
+      <description>hugo 的Default markdown語法 ↓ youtube 嵌入   This is the A markdown file, it&amp;rsquo;s in the root directory</description>
+    </item>
+    
+    <item>
+      <title>Newo1</title>
+      <link>http://example.org/dir3/newo1/</link>
+      <pubDate>Sat, 05 Dec 2020 15:34:59 +0800</pubDate>
+      
+      <guid>http://example.org/dir3/newo1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>20th</title>
+      <link>http://example.org/posts/dir1/20th/</link>
+      <pubDate>Sat, 05 Dec 2020 15:34:01 +0800</pubDate>
+      
+      <guid>http://example.org/posts/dir1/20th/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18th</title>
+      <link>http://example.org/posts/dir1/dir2/18th/</link>
+      <pubDate>Sat, 05 Dec 2020 11:59:57 +0800</pubDate>
+      
+      <guid>http://example.org/posts/dir1/dir2/18th/</guid>
+      <description>this is under: content/posts/dir1/dir2/18th/</description>
+    </item>
+    
+    <item>
+      <title>17th</title>
+      <link>http://example.org/17th/</link>
+      <pubDate>Sat, 05 Dec 2020 11:48:07 +0800</pubDate>
+      
+      <guid>http://example.org/17th/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>15th</title>
+      <link>http://example.org/posts/dir1/15th/</link>
+      <pubDate>Sat, 05 Dec 2020 11:40:39 +0800</pubDate>
+      
+      <guid>http://example.org/posts/dir1/15th/</guid>
+      <description>under : /contetent/posts/dir1/15th.md</description>
+    </item>
+    
+    <item>
+      <title>Tenth</title>
+      <link>http://example.org/posts/tenth/</link>
+      <pubDate>Thu, 03 Dec 2020 16:58:31 +0800</pubDate>
+      
+      <guid>http://example.org/posts/tenth/</guid>
+      <description>i just merge feature-x-1 into dev</description>
+    </item>
+    
+    <item>
+      <title>Ninth Post</title>
+      <link>http://example.org/posts/ninth-post/</link>
+      <pubDate>Thu, 03 Dec 2020 16:55:02 +0800</pubDate>
+      
+      <guid>http://example.org/posts/ninth-post/</guid>
+      <description>another edit under realease branch!</description>
+    </item>
+    
+    <item>
+      <title>Seventh Post</title>
+      <link>http://example.org/posts/seventh-post/</link>
+      <pubDate>Thu, 03 Dec 2020 16:48:26 +0800</pubDate>
+      
+      <guid>http://example.org/posts/seventh-post/</guid>
+      <description>i edit this one on vs code screen
+another edit under dev mode ,after write something under release mode!</description>
+    </item>
+    
+    <item>
+      <title>Sixth Post</title>
+      <link>http://example.org/posts/sixth-post/</link>
+      <pubDate>Thu, 03 Dec 2020 16:48:16 +0800</pubDate>
+      
+      <guid>http://example.org/posts/sixth-post/</guid>
+      <description>texting modified on feature-x</description>
+    </item>
+    
+    <item>
+      <title>My Fifth Post</title>
+      <link>http://example.org/posts/my-fifth-post/</link>
+      <pubDate>Thu, 03 Dec 2020 16:44:51 +0800</pubDate>
+      
+      <guid>http://example.org/posts/my-fifth-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Forth Post</title>
+      <link>http://example.org/posts/my-forth-post/</link>
+      <pubDate>Thu, 03 Dec 2020 16:44:29 +0800</pubDate>
+      
+      <guid>http://example.org/posts/my-forth-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Third Post</title>
+      <link>http://example.org/posts/my-third-post/</link>
+      <pubDate>Thu, 03 Dec 2020 16:42:58 +0800</pubDate>
+      
+      <guid>http://example.org/posts/my-third-post/</guid>
+      <description>i edit this one after feature-x-1 has been established!</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>http://example.org/posts/my-second-post/</link>
+      <pubDate>Thu, 03 Dec 2020 16:42:28 +0800</pubDate>
+      
+      <guid>http://example.org/posts/my-second-post/</guid>
+      <description>now i am in release branch!!!
+after done all 5 types branch name!!!</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
-      <link>https://arcgrace.github.io/thirdSite/public/posts/my-first-post/</link>
+      <link>http://example.org/posts/my-first-post/</link>
       <pubDate>Thu, 03 Dec 2020 09:06:41 +0800</pubDate>
       
-      <guid>https://arcgrace.github.io/thirdSite/public/posts/my-first-post/</guid>
+      <guid>http://example.org/posts/my-first-post/</guid>
       <description>Today is sunny day!!</description>
     </item>
     
